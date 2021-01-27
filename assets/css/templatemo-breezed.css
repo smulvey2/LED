@@ -1419,7 +1419,7 @@ contact
 }
 
 #contact-us .left-text-content ul li {
-    margin-bottom: 300px;
+    margin-bottom: 0px;
 }
 
 #contact-us .left-text-content ul li {
@@ -1433,7 +1433,7 @@ contact
 }
 
 #contact-us {
-    padding: 120px 0px;
+    padding: 0px 0px;
     background-color: #ffdd32;
     background-position: center center;
     background-repeat: no-repeat;
